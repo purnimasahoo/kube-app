@@ -54,4 +54,5 @@ Steps.
 
 AWS Kubernetes Diagram
 
+![AWS-Project-Kube-app drawio](https://github.com/purnimasahoo/kube-app/assets/115042111/b8258cef-2869-49d1-9868-e70c7a03291b)
 
