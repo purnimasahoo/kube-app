@@ -50,4 +50,8 @@ Steps.
 
 ⏭️ Test Kubernetes Cluster (deployment)
 
-https://github.com/purnimasahoo/kube-app/blob/main/images/AWS-Project-Kube-app.drawio.png
+# JAVA APPLICATION DEPLOYMENT TO KUBERNETES CLUSTER
+
+AWS Kubernetes Diagram
+
+
