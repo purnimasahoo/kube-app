@@ -49,3 +49,5 @@ Steps.
 ⏭️Kubernetes definition files for: Deployment, services, replicas and volume.(memcached, rabbitmq, tomcat)
 
 ⏭️ Test Kubernetes Cluster (deployment)
+
+https://github.com/purnimasahoo/kube-app/blob/main/images/AWS-Project-Kube-app.drawio.png
