@@ -30,7 +30,7 @@
 
 # Technologies
 
-Java stack (Vprofile, application services)
+Java stack (application services)
 
 # Kubernetes cluster
 
@@ -61,4 +61,14 @@ Kops Cluster
 Kops master-nodes-instances
 
 ![image](https://github.com/purnimasahoo/kube-app/assets/115042111/69d2fdc5-5b34-4a80-aa97-53a2eb6f97a7)
+
+Autoscaling groups
+
+![image](https://github.com/purnimasahoo/kube-app/assets/115042111/39b8841d-ee26-4d21-b2f5-aa490c905b1d)
+
+Kubernetes deployment-services
+
+![image](https://github.com/purnimasahoo/kube-app/assets/115042111/f422784a-3228-44c8-bcae-d9b5e3c61046)
+
+
 
