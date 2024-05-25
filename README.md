@@ -70,5 +70,9 @@ Kubernetes deployment-services
 
 ![image](https://github.com/purnimasahoo/kube-app/assets/115042111/f422784a-3228-44c8-bcae-d9b5e3c61046)
 
+Route 53 records
+
+![image](https://github.com/purnimasahoo/kube-app/assets/115042111/cd9573eb-5241-41e5-b36c-dbeb17b52d1a)
+
 
 
