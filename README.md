@@ -58,4 +58,7 @@ Kops Cluster
 
 ![image](https://github.com/purnimasahoo/kube-app/assets/115042111/ea8e5cc5-4150-491f-8c69-f1e83f7c957c)
 
+Kops master-nodes-instances
+
+![image](https://github.com/purnimasahoo/kube-app/assets/115042111/69d2fdc5-5b34-4a80-aa97-53a2eb6f97a7)
 
