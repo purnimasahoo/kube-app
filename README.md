@@ -12,7 +12,7 @@
 
 ✅Want to host for production
 
-Requirement:
+# Requirement:
 
 ✅High availability
 
@@ -24,21 +24,28 @@ Requirement:
 
 ✅Portable and flexible
 
-Container Orchestration Tool
+# Container Orchestration Tool
 
 🛠️Kubernetes
 
-Technologies
+# Technologies
 
 Java stack (Vprofile, application services)
 
-Kubernetes cluster
+# Kubernetes cluster
 
 Steps.
+
 ⏭️Setup Kubernetes Cluster (via kops)
+
 ⏭️Create EBS volume for DB Pod
+
 ⏭️Kube secret for passwords
+
 ⏭️DB deploy definition
+
 ⏭️DB Service definition
+
 ⏭️Kubernetes definition files for: Deployment, services, replicas and volume.(memcached, rabbitmq, tomcat)
+
 ⏭️ Test Kubernetes Cluster (deployment)
