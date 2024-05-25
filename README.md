@@ -5,20 +5,35 @@
 # Scenario:
 
 ✅Multi tier web application stack
+
 ✅Containerized
+
 ✅Test it
+
 ✅Want to host for production
+
 Requirement:
+
 ✅High availability
+
 ✅Fault tolerance
+
 ✅Easy scalable
+
 ✅Platform independent
+
 ✅Portable and flexible
+
 Container Orchestration Tool
+
 🛠️Kubernetes
+
 Technologies
+
 Java stack (Vprofile, application services)
+
 Kubernetes cluster
+
 Steps.
 ⏭️Setup Kubernetes Cluster (via kops)
 ⏭️Create EBS volume for DB Pod
